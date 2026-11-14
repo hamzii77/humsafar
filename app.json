@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "HamSafar",
+    "slug": "hamsafar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "hamsafar",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.hamza.hamsafar"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    }
+  }
+}
